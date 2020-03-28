@@ -1,0 +1,9 @@
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\bin\Debug\Electro_Calk_2.exe.config
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\bin\Debug\Electro_Calk_2.exe
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\bin\Debug\Electro_Calk_2.pdb
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\obj\Debug\Electro_Calk_2.csprojAssemblyReference.cache
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\obj\Debug\Electro_Calk_2.Form1.resources
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\obj\Debug\Electro_Calk_2.Properties.Resources.resources
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\obj\Debug\Electro_Calk_2.csproj.GenerateResource.cache
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\obj\Debug\Electro_Calk_2.exe
+E:\Lesons C#\Electro_Calk_2\Electro_Calk_2\obj\Debug\Electro_Calk_2.pdb
