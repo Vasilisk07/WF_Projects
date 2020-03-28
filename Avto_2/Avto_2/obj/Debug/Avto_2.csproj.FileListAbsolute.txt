@@ -1,0 +1,9 @@
+E:\Lesons C#\Avto_2\Avto_2\bin\Debug\Avto_2.exe.config
+E:\Lesons C#\Avto_2\Avto_2\bin\Debug\Avto_2.exe
+E:\Lesons C#\Avto_2\Avto_2\bin\Debug\Avto_2.pdb
+E:\Lesons C#\Avto_2\Avto_2\obj\Debug\Avto_2.csprojAssemblyReference.cache
+E:\Lesons C#\Avto_2\Avto_2\obj\Debug\Avto_2.Form1.resources
+E:\Lesons C#\Avto_2\Avto_2\obj\Debug\Avto_2.Properties.Resources.resources
+E:\Lesons C#\Avto_2\Avto_2\obj\Debug\Avto_2.csproj.GenerateResource.cache
+E:\Lesons C#\Avto_2\Avto_2\obj\Debug\Avto_2.exe
+E:\Lesons C#\Avto_2\Avto_2\obj\Debug\Avto_2.pdb
