@@ -1,0 +1,9 @@
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\bin\Debug\Win_forms_prog.exe.config
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\bin\Debug\Win_forms_prog.exe
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\bin\Debug\Win_forms_prog.pdb
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\obj\Debug\Win_forms_prog.csprojAssemblyReference.cache
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\obj\Debug\Win_forms_prog.Form1.resources
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\obj\Debug\Win_forms_prog.Properties.Resources.resources
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\obj\Debug\Win_forms_prog.csproj.GenerateResource.cache
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\obj\Debug\Win_forms_prog.exe
+E:\Lesons C#\Win_forms_prog\Win_forms_prog\obj\Debug\Win_forms_prog.pdb
